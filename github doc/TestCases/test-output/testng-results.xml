@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="25" passed="25" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-16T17:28:54 IST" name="Suite" finished-at="2022-09-16T17:29:31 IST" duration-ms="36201">
+    <groups>
+    </groups>
+    <test started-at="2022-09-16T17:28:54 IST" name="Test" finished-at="2022-09-16T17:29:31 IST" duration-ms="36201">
+      <class name="phani.TestCases.AllMobilesTest">
+        <test-method signature="OpeningBrowser()[pri:1, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:19 IST" name="OpeningBrowser" finished-at="2022-09-16T17:29:21 IST" duration-ms="2469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrowser -->
+        <test-method signature="allMobilespage()[pri:2, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:21 IST" name="allMobilespage" finished-at="2022-09-16T17:29:22 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allMobilespage -->
+        <test-method signature="searchingLenovomobiles()[pri:3, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:22 IST" name="searchingLenovomobiles" finished-at="2022-09-16T17:29:23 IST" duration-ms="1141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingLenovomobiles -->
+        <test-method signature="searchingSamsungmubiles()[pri:4, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:23 IST" name="searchingSamsungmubiles" finished-at="2022-09-16T17:29:24 IST" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingSamsungmubiles -->
+        <test-method signature="wrongApple()[pri:5, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:24 IST" name="wrongApple" finished-at="2022-09-16T17:29:25 IST" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongApple -->
+        <test-method signature="wrongSamsung()[pri:6, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:25 IST" name="wrongSamsung" finished-at="2022-09-16T17:29:26 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongSamsung -->
+        <test-method signature="twoCharacter()[pri:7, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:26 IST" name="twoCharacter" finished-at="2022-09-16T17:29:27 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoCharacter -->
+        <test-method signature="InvalidMob()[pri:8, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:27 IST" name="InvalidMob" finished-at="2022-09-16T17:29:28 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMob -->
+        <test-method signature="order()[pri:9, instance:phani.TestCases.AllMobilesTest@515aebb0]" started-at="2022-09-16T17:29:28 IST" name="order" finished-at="2022-09-16T17:29:31 IST" duration-ms="2384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order -->
+      </class> <!-- phani.TestCases.AllMobilesTest -->
+      <class name="phani.TestCases.Signup">
+        <test-method signature="launchBrowser()[pri:1, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:03 IST" name="launchBrowser" finished-at="2022-09-16T17:29:05 IST" duration-ms="2292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="clickOnSignUp()[pri:2, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:05 IST" name="clickOnSignUp" finished-at="2022-09-16T17:29:08 IST" duration-ms="2866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignUp -->
+        <test-method signature="enterFirstName()[pri:3, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:08 IST" name="enterFirstName" finished-at="2022-09-16T17:29:09 IST" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFirstName -->
+        <test-method signature="enterLastName()[pri:4, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:09 IST" name="enterLastName" finished-at="2022-09-16T17:29:10 IST" duration-ms="1075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLastName -->
+        <test-method signature="enterMail()[pri:5, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:10 IST" name="enterMail" finished-at="2022-09-16T17:29:11 IST" duration-ms="1066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMail -->
+        <test-method signature="enterPassword()[pri:6, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:11 IST" name="enterPassword" finished-at="2022-09-16T17:29:12 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method signature="enterDOB()[pri:7, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:12 IST" name="enterDOB" finished-at="2022-09-16T17:29:13 IST" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterDOB -->
+        <test-method signature="selectGender()[pri:8, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:13 IST" name="selectGender" finished-at="2022-09-16T17:29:14 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectGender -->
+        <test-method signature="enterPhoneNumber()[pri:9, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:14 IST" name="enterPhoneNumber" finished-at="2022-09-16T17:29:15 IST" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPhoneNumber -->
+        <test-method signature="clickOnRegister()[pri:10, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:15 IST" name="clickOnRegister" finished-at="2022-09-16T17:29:16 IST" duration-ms="1141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnRegister -->
+        <test-method signature="clickOnSignIn()[pri:11, instance:phani.TestCases.Signup@37afeb11]" started-at="2022-09-16T17:29:16 IST" name="clickOnSignIn" finished-at="2022-09-16T17:29:19 IST" duration-ms="2305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignIn -->
+      </class> <!-- phani.TestCases.Signup -->
+      <class name="phani.TestCases.Sigin">
+        <test-method signature="launchBrowser()[pri:1, instance:phani.TestCases.Sigin@1aa7ecca]" started-at="2022-09-16T17:28:54 IST" name="launchBrowser" finished-at="2022-09-16T17:28:59 IST" duration-ms="4291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="clickonsigninbutton()[pri:2, instance:phani.TestCases.Sigin@1aa7ecca]" started-at="2022-09-16T17:28:59 IST" name="clickonsigninbutton" finished-at="2022-09-16T17:29:00 IST" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonsigninbutton -->
+        <test-method signature="enterUserName()[pri:3, instance:phani.TestCases.Sigin@1aa7ecca]" started-at="2022-09-16T17:29:00 IST" name="enterUserName" finished-at="2022-09-16T17:29:01 IST" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUserName -->
+        <test-method signature="enterPassword()[pri:4, instance:phani.TestCases.Sigin@1aa7ecca]" started-at="2022-09-16T17:29:01 IST" name="enterPassword" finished-at="2022-09-16T17:29:02 IST" duration-ms="1102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method signature="clickOnLogin_Quait()[pri:5, instance:phani.TestCases.Sigin@1aa7ecca]" started-at="2022-09-16T17:29:02 IST" name="clickOnLogin_Quait" finished-at="2022-09-16T17:29:03 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogin_Quait -->
+      </class> <!-- phani.TestCases.Sigin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
