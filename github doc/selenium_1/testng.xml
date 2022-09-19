@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Mobile_World">
+  <test thread-count="5" name="TestforSign_Allmobiles">
+   <classes>
+   <class name="selenium_1.Test_case_sigin"/>
+   <class name="selenium_1.Test_case_AllMobiles"/>
+  </classes>
+   </test>
+  <test name="Sign_SignUp">
+   <classes>
+   <class name="selenium_1.Test_case_signup"/>
+   <class name="selenium_1.Test_case_sigin"/>
+  </classes>
+  </test>
+   <test name="all3">
+   <classes>
+   <class name="selenium_1.Test_case_sigin"/>
+   <class name="selenium_1.Test_case_signup"/>
+   <class name="selenium_1.Test_case_AllMobiles"/>
+  </classes>
+   </test>
+  <!-- Test -->
+</suite> <!-- Suite -->
